@@ -21,19 +21,3 @@ nav a {
     text-decoration: none;
     margin: 0 15px;
 }
-header h1 {
-    margin: 0;
-    padding: 0;
-    text-align: top-center;
-}
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.center {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-}
