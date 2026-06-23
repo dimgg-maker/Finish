@@ -26,3 +26,14 @@ header h1 {
     padding: 0;
     text-align: center;
 }
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
